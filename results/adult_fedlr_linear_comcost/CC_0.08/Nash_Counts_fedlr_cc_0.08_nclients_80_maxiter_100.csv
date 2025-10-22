@@ -1,0 +1,2 @@
+comm_cost,cost_mode,n_clients,max_iter,Complete_Occurrences,Lottery_Occurrences
+0.08,fixed,80,100,0,0
